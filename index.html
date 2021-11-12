@@ -8,17 +8,36 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <h2>Akan Name Generator<br>(Ghanian Naming System)</h2>
     <div class="description">
-        <h2>About Akan Name Generator</h2>
+        <h3>About Akan Name Generator</h3>
         <p>Akan name generator is an interesting application which is used to assign names to people using a ghananian naming system that names children based on the day they were born and their gender. It takes in one's date of birth and is able to generate a name for them based on their gender. All you have to do as a user is to enter date of birth which includes day, month and year of birth and it automatically generates an Akan name for you.</p>
         <p>Want to try!</p>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZbHQyC_7Vj1Zhu8QG7FE2EPX2xNRSNKdLg&usqp=CAU" alt="smilie">
     </div>
     <div class="entry">
         <form action="POST">
-            <label for="birthday">Enter your birthday below</label>
+            <label for="birthday">Enter your birthday below</label><br>
+            <label for="day">Day:</label>
+            <input type="number"><br>
+            <label for="month">Month:</label>
+            <input type="number"><br>
+            <label for="first-two-digits-of-year">First two digits of year:</label>
+            <input type="number"><br>
+            <label for="last-two-digits-of-year">Last two digits of year:</label>
+            <input type="number"><br>
+            <label for="gender">Gender:</label><br>
+            <label for="male">Male</label>
+            <input type="radio" id="Male" name="gender">
+            <label for="Female">Female</label>
+            <input type="radio" id="Female" name="gender"><br>
+            <label for="name">Your Akan Name Is:</label><br>
+            <input type="number"><br><br>
+            <input type="submit" value="SUBMIT">
         </form>
     </div>
-    <div class="image"></div>
+    <div class="image">
+        <img src="https://media.istockphoto.com/photos/ghana-flag-picture-id471793389?b=1&k=20&m=471793389&s=170667a&w=0&h=FwOrTLiNJX3GAnb80fr2M3tMchQ8KRhxHMkQxpDoCWY=" alt="ghana-flag">
+    </div>
 </body>
 </html>
