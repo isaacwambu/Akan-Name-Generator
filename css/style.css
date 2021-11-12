@@ -14,7 +14,7 @@ h1{
 }
 .description{
     width: 30%;
-    font-size: 2rem;
+    font-size: 1.8rem;
     background-color: grey;
     float: left;
     height: 550px;
@@ -32,4 +32,37 @@ h1{
     padding: 2rem;
     float: right;
     margin-right: 5%;
+    background-image: url("https://media.istockphoto.com/photos/white-wood-texture-picture-id1256912079?b=1&k=20&m=1256912079&s=170667a&w=0&h=wCTRObZQoUV36_GB4EozRvrhfjxvBMrS5PtEvdwIgjQ=");
+}
+.entry p{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.entry img{
+    width: 10%;
+    margin-left: 45%;
+}
+.entry label{
+    font-size: 1.5rem;
+   line-height: 1.5;
+}
+.entry input{
+    font-size: 1.8rem;
+    border: none;
+    border-radius: 10px;
+}
+.my-form{
+    margin-left: 30%;
+}
+.sub{
+    background-color: grey;
+    margin-left: 20%;
+    padding: 10px;
+    font-size: 4rem;
+    font-weight: bold;
+    color: white;
+}
+.entry h3{
+    text-align: center;
+    font-size: 1.5rem;
 }
