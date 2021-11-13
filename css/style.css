@@ -37,6 +37,11 @@ h1{
 .entry p{
     font-size: 2.5rem;
     text-align: center;
+    font-weight: bold;
+}
+.entry h3{
+    text-align: center;
+    font-size: 1.5rem;
 }
 .entry img{
     width: 10%;
@@ -44,12 +49,12 @@ h1{
 }
 .entry label{
     font-size: 1.5rem;
-   line-height: 1.5;
+    line-height: 1.5;
 }
 .entry input{
     font-size: 1.8rem;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 .my-form{
     margin-left: 30%;
@@ -61,8 +66,4 @@ h1{
     font-size: 4rem;
     font-weight: bold;
     color: white;
-}
-.entry h3{
-    text-align: center;
-    font-size: 1.5rem;
 }

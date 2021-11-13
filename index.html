@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/akan.js"></script>
 </head>
 <body>
     <h1>Akan Name Generator<br>(Ghanian Naming System)</h1>
@@ -15,18 +16,15 @@
         <p>Akan name generator is an interesting application which is used to assign names to people using a Ghananian naming system that names children based on the day they were born and their gender. It takes in your date of birth and is able to generate a Ghana name for you based on your gender. All you have to do as a user is to enter your date of birth which includes day, month and year of birth and it automatically generates an Akan name for you.</p>
     </div> 
         <div class="entry">
-            <p>want to try?</p>
-
-            <h3>Please enter your date of birth and gender details in the form correctly!</h3>
-            <form action="POST" class="my-form">
+            <p>want to try?</p><br>
+            <h3>Please enter your date of birth and gender details in the form correctly!</h3><br><br>
+            <form action="POST" class="my-form" id="form">
                 <label for="day">Day of Birth:</label><br>
                 <input type="number"><br>
                 <label for="month">Month of Birth:</label><br>
                 <input type="number"><br>
-                <label for="first-two-digits-of-year">First two digits of year of Birth:</label><br>
-                <input type="number"><br>
-                <label for="last-two-digits-of-year">Last two digits of year of Year of birth:</label><br>
-                <input type="number"><br>
+                <label for="year">Year of Birth:</label><br>
+                <input type="number"><br><br><br>
                 <label for="gender">Gender:</label>
                 <label for="male">Male</label>
                 <input type="radio" id="Male" name="gender">
