@@ -63,7 +63,9 @@ h1{
     background-color: grey;
     margin-left: 20%;
     padding: 10px;
-    font-size: 4rem;
+    font-size: 1.5rem;
     font-weight: bold;
     color: white;
+    border: ;
+    border-radius: 10px;
 }
