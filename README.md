@@ -15,7 +15,7 @@
 ## Known Bugs
 {This application has no known bugs.}
 ## Technologies Used
-{This application uses HTML,CSS and JAVASCRIPT files. It was build using vs code and git. I used <br> tag in the html to word wrap my form, then used <img> tag to insert a smilie.}
+{This application uses HTML,CSS and JAVASCRIPT files. It was build using vs code and git. I used <br> tag in the html to word wrap my form then i used <div> tag to create containers that i used to customise my application appearance using background image in the css file.}
 ## Support and contact details
 {If you have any issues or questions on the application or you would like the application to be improved in a certain way, please do not hesitate to contact me via the email wachiraisaac4@gmail.com.}
 ### License
