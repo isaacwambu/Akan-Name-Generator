@@ -62,11 +62,291 @@ h1{
 }
 .sub{
     background-color: grey;
-    margin-left: 20%;
+    margin-left: 10%;
     padding: 10px;
     font-size: 1.5rem;
     font-weight: bold;
     color: white;
     border: ;
     border-radius: 10px;
+}
+@media (max-width: 1530px){
+    h1{
+        text-align: center;
+        color: brown;
+        font-size: 3rem;
+        margin-bottom: 4%;
+        margin-top: 2%;
+    }
+    .description{
+        width: 80%;
+        font-size: 1.8rem;
+        background-color: grey;
+        float: left;
+        height: 550px;
+        padding: 2rem;
+        border-radius: 10px;
+        margin-left: 5%;
+        color: white;
+        line-height: 1.5;
+    }
+    .entry{
+        width: 80%;
+        background-color: white;
+        height: 550px;
+        margin-left: 5%;
+        margin-top: 5%;
+        border-radius: 10px;
+        padding: 2rem;
+        margin-bottom: 10%;
+        float: left;
+        margin-right: 5%;
+        background-image: url("https://media.istockphoto.com/photos/white-wood-texture-picture-id1256912079?b=1&k=20&m=1256912079&s=170667a&w=0&h=wCTRObZQoUV36_GB4EozRvrhfjxvBMrS5PtEvdwIgjQ=");
+    }
+    .entry p{
+        font-size: 2.5rem;
+        text-align: center;
+        font-weight: bold;
+    }
+    .entry h3{
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .entry img{
+        width: 10%;
+        margin-left: 45%;
+    }
+    .entry label{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+    .entry input{
+        font-size: 1.8rem;
+        border: none;
+        border-radius: 5px;
+        padding: 9px;
+    }
+    .my-form{
+        margin-left: 30%;
+    }
+    .sub{
+        background-color: grey;
+        margin-left: 10%;
+        padding: 10px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: white;
+        border: ;
+        border-radius: 10px;
+    }
+}
+@media (max-width: 700px){
+    h1{
+        text-align: center;
+        color: brown;
+        font-size: 3rem;
+        margin-bottom: 4%;
+        margin-top: 2%;
+    }
+    .description{
+        width: 80%;
+        font-size: 1.8rem;
+        background-color: grey;
+        float: left;
+        height: 800px;
+        padding: 2rem;
+        border-radius: 10px;
+        margin-left: 5%;
+        color: white;
+        line-height: 1.5;
+    }
+    .entry{
+        width: 80%;
+        background-color: white;
+        height: 550px;
+        margin-left: 5%;
+        margin-top: 5%;
+        border-radius: 10px;
+        padding: 2rem;
+        margin-bottom: 10%;
+        float: left;
+        margin-right: 5%;
+        background-image: url("https://media.istockphoto.com/photos/white-wood-texture-picture-id1256912079?b=1&k=20&m=1256912079&s=170667a&w=0&h=wCTRObZQoUV36_GB4EozRvrhfjxvBMrS5PtEvdwIgjQ=");
+    }
+    .entry p{
+        font-size: 2.5rem;
+        text-align: center;
+        font-weight: bold;
+    }
+    .entry h3{
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .entry img{
+        width: 10%;
+        margin-left: 45%;
+    }
+    .entry label{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+    .entry input{
+        font-size: 1rem;
+        border: none;
+        border-radius: 5px;
+        padding: 5%;
+    }
+    .my-form{
+        margin-left: 30%;
+    }
+    .sub{
+        background-color: grey;
+        margin-left: 10%;
+        padding: 10px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: white;
+        border: ;
+        border-radius: 10px;
+    }
+}
+@media (max-width: 574px){
+    h1{
+        text-align: center;
+        color: brown;
+        font-size: 3rem;
+        margin-bottom: 4%;
+        margin-top: 2%;
+    }
+    .description{
+        width: 80%;
+        font-size: 1.8rem;
+        background-color: grey;
+        float: left;
+        height: 550px;
+        padding: 2rem;
+        border-radius: 10px;
+        margin-left: 5%;
+        color: white;
+        line-height: 1.5;
+    }
+    .entry{
+        width: 80%;
+        background-color: white;
+        height: 800px;
+        margin-left: 5%;
+        margin-top: 5%;
+        border-radius: 10px;
+        padding: 2rem;
+        margin-bottom: 10%;
+        float: left;
+        margin-right: 5%;
+        background-image: url("https://media.istockphoto.com/photos/white-wood-texture-picture-id1256912079?b=1&k=20&m=1256912079&s=170667a&w=0&h=wCTRObZQoUV36_GB4EozRvrhfjxvBMrS5PtEvdwIgjQ=");
+    }
+    .entry p{
+        font-size: 2.5rem;
+        text-align: center;
+        font-weight: bold;
+    }
+    .entry h3{
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .entry img{
+        width: 10%;
+        margin-left: 45%;
+    }
+    .entry label{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+    .entry input{
+        font-size: 1rem;
+        border: none;
+        border-radius: 5px;
+        padding: 5%;
+    }
+    .my-form{
+        margin-left: 30%;
+    }
+    .sub{
+        background-color: grey;
+        margin-left: 10%;
+        padding: 10px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: white;
+        border: ;
+        border-radius: 10px;
+    }
+}
+@media (max-width:560px){
+    h1{
+        text-align: center;
+        color: brown;
+        font-size: 3rem;
+        margin-bottom: 4%;
+        margin-top: 2%;
+    }
+    .description{
+        width: 80%;
+        font-size: 1.8rem;
+        background-color: grey;
+        float: left;
+        height: 900px;
+        padding: 2rem;
+        border-radius: 10px;
+        margin-left: 5%;
+        color: white;
+        line-height: 1.5;
+    }
+    .entry{
+        width: 80%;
+        background-color: white;
+        height: 550px;
+        margin-left: 5%;
+        margin-top: 5%;
+        border-radius: 10px;
+        padding: 2rem;
+        margin-bottom: 10%;
+        float: left;
+        margin-right: 5%;
+        background-image: url("https://media.istockphoto.com/photos/white-wood-texture-picture-id1256912079?b=1&k=20&m=1256912079&s=170667a&w=0&h=wCTRObZQoUV36_GB4EozRvrhfjxvBMrS5PtEvdwIgjQ=");
+    }
+    .entry p{
+        font-size: 2.5rem;
+        text-align: center;
+        font-weight: bold;
+    }
+    .entry h3{
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .entry img{
+        width: 10%;
+        margin-left: 45%;
+    }
+    .entry label{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+    .entry input{
+        font-size: 1rem;
+        border: none;
+        border-radius: 5px;
+        padding: 5%;
+    }
+    .my-form{
+        margin-left: 30%;
+    }
+    .sub{
+        background-color: grey;
+        margin-left: 10%;
+        padding: 10px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: white;
+        border: ;
+        border-radius: 10px;
+    }
 }

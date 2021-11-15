@@ -11,11 +11,12 @@
 * In the application you will see a form on the right side of the page which has provision for date of birth and gender.
 * Fill in your date of birth and choose gender.
 * Once this information is filled, hit the Generate button and an Akan name will be displayed based on the details you filled. That is your Akan name.
+* NB:If you do not fill in correct values you will get message alerts asking you to fill in the correct details.
 ## https://isaacwambu.github.io/Akan-Name-Generator/
 ## Known Bugs
 {This application has no known bugs.}
 ## Technologies Used
-{This application uses HTML,CSS and JAVASCRIPT files. It was build using vs code and git. I used <br> tag in the html to word wrap my form then i used <div> tag to create containers that i used to customise my application appearance using background image in the css file.}
+{This application uses HTML,CSS and JAVASCRIPT files. It was build using vs code and git. I used reset button in the htmls form to clear data from the form fields,  <br> tag in the html to word wrap my form then i used <div> tag to create containers that i used to customise my application appearance using background image in the css file. I also used @media query to make my page responsive.}
 ## Support and contact details
 {If you have any issues or questions on the application or you would like the application to be improved in a certain way, please do not hesitate to contact me via the email wachiraisaac4@gmail.com.}
 ### License
