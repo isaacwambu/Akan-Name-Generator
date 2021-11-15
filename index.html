@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="a.js"></script>
+    <script src="ip.js"></script>
     <link rel="stylesheet" href="css/style.css">
    
 </head>
@@ -21,18 +21,16 @@
             <h3>Please enter your date of birth and gender details in the form correctly!</h3><br><br>
             <form action="" class="my-form" id="form">
                 <label for="day">Day of Birth:</label><br>
-                <input type="text" id="day"><br>
+                <input type="number" id="day" required><br>
                 <label for="month">Month of Birth:</label><br>
-                <input type="text" id="month"><br>
+                <input type="number" id="month"><br>
                 <label for="year">Year of Birth:</label><br>
-                <input type="text" id="year"><br><br><br>
+                <input type="number" id="year" required><br><br><br>
                 <label for="gender">Gender:</label>
                 <label for="male">Male</label>
                 <input type="radio" id="Male" name="gender">
                 <label for="Female">Female</label>
                 <input type="radio" id="Female" name="gender"><br><br>
-                <label for="name">Your Akan Name Is:</label><br>
-                <input type="text"><br><br>
                 <button type="submit" value="Generate" onclick="fn()" class="sub">Submit</button>
             </form>
         </div>
