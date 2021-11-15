@@ -6,7 +6,6 @@
         var year = document.getElementById("year").value;
 
         
-
         if(year <= 0 || year > 2021){
             alert("enter correct year!");
         }
@@ -17,6 +16,7 @@
             d.setYear(year);
         }
         
+
         if(month <= 0 || month > 12){
             alert("enter correct month!");
         }
@@ -26,6 +26,8 @@
         else{
             d.setMonth(month);
         }
+
+
 
         if(day <= 0 || day > 31){
             alert("enter correct day!");
@@ -38,9 +40,7 @@
         }
 
 
-
         var dayy = d.getDay();
-
         var days = ["sunday", "monday", "teusday", "wednesday", "thursday", "friday", "saturday"];
         var male = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
         var female = ["Akoswa", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
@@ -110,16 +110,8 @@
             else{
                 alert("enter correct values");
             }
-            
-
-        
         }
-
-        getAkan();
-
-
-
-    
+        getAkan();   
     }
            
 
