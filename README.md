@@ -4,7 +4,7 @@
 ## Description
 {Akan Name Generator is an application that is inspired by the ghanian culture naming system for children than gives children Akan first name based on their gender and the day they were born. It takes in the date of birth of the user and uses it to determine the day they were born. Then based on their gender is able to choose an Akan name for them. The user is expected to fill in their date of birth and gender then when they hit the Generate button an Akan name is assigned to them.}
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/isaacwambu/Akan-Name-Generator.git}
+* Clone the repo {git clone https://github.com/isaacwambu/Akan-Name-Generator.git }
 * Make sure you have Chrome browser (recommended) or any other browser, reliable internet and a good computer.
 * Go to the live link below and click on it.
 * It will take you direct to the application.
