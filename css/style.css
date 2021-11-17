@@ -31,6 +31,7 @@ h1{
     border-radius: 10px;
     padding: 2rem;
     float: right;
+    margin-bottom: 5%;
     margin-right: 5%;
     background-image: url("https://media.istockphoto.com/photos/white-wood-texture-picture-id1256912079?b=1&k=20&m=1256912079&s=170667a&w=0&h=wCTRObZQoUV36_GB4EozRvrhfjxvBMrS5PtEvdwIgjQ=");
 }
@@ -67,7 +68,7 @@ h1{
     font-size: 1.5rem;
     font-weight: bold;
     color: white;
-    border: ;
+    border: none;
     border-radius: 10px;
 }
 @media (max-width: 1530px){
@@ -136,7 +137,7 @@ h1{
         font-size: 1.5rem;
         font-weight: bold;
         color: white;
-        border: ;
+        border: none;
         border-radius: 10px;
     }
 }
@@ -276,7 +277,7 @@ h1{
         font-size: 1.5rem;
         font-weight: bold;
         color: white;
-        border: ;
+        border: none;
         border-radius: 10px;
     }
 }
@@ -346,7 +347,7 @@ h1{
         font-size: 1.5rem;
         font-weight: bold;
         color: white;
-        border: ;
+        border: none;
         border-radius: 10px;
     }
 }
