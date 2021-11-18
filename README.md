@@ -10,7 +10,7 @@
 * It will take you direct to the application.
 * In the application you will see a form on the right side of the page which has provision for date of birth and gender.
 * Fill in your date of birth and choose gender.
-* Once this information is filled, hit the Submit button and an Akan name will be displayed based on the details you filled. That is your Akan name.
+* Once this information is filled, hit the Generate button and an Akan name will be displayed based on the details you filled. That is your Akan name.
 * NB:If you do not fill in correct values you will get message alerts asking you to fill in the correct details.
 ## https://isaacwambu.github.io/Akan-Name-Generator/
 ## Known Bugs
