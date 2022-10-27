@@ -5,13 +5,9 @@
 body{
     background-image: url("https://images.unsplash.com/photo-1528460033278-a6ba57020470?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGxhaW4lMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" );
 }
-/* h1{
-    text-align: center;
+.color{
     color: brown;
-    font-size: 3rem;
-    margin-bottom: 4%;
-    margin-top: 2%;
-} */
+}
 .description{
     background-color: grey;
     
