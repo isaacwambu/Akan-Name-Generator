@@ -1,0 +1,266 @@
+[33mcommit 70918da021d9e028e35dab79462d8a4863782bc2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Tue Oct 25 11:12:35 2022 +0300
+
+    modify the pages to include bootstrap
+
+[33mcommit d651f765edfbc6ea46fb7befd0c2bda9841028ea[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: isaacwambu <93251501+isaacwambu@users.noreply.github.com>
+Date:   Thu Nov 18 15:07:40 2021 +0300
+
+    Update README.md
+
+[33mcommit 14e635c2b855dc124efd6dee5f4ca74f2c879798[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Thu Nov 18 15:04:28 2021 +0300
+
+    update image
+
+[33mcommit 161e0fb12faf2225f6a91a1fab3ada7b6e790c49[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Thu Nov 18 15:02:36 2021 +0300
+
+    chaged image
+
+[33mcommit 7055380dfba605dbf2a3e2d6b6cf14db1e9e09a4[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Thu Nov 18 14:48:14 2021 +0300
+
+    update image
+
+[33mcommit cc7b0f56f250ad1e2a8bd8aebc20eeb8b1a332ca[m
+Merge: c9bd229 9ff2b3b
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Thu Nov 18 14:40:29 2021 +0300
+
+    Merge branch 'master' of https://github.com/isaacwambu/Akan-Name-Generator
+    modify readme file
+
+[33mcommit c9bd2293ca4243f207dfc2d79b7e681e30b69765[m
+Merge: 23b74a4 209fa46
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Thu Nov 18 14:36:16 2021 +0300
+
+    modify readme file
+
+[33mcommit 9ff2b3b3c0cad5c4b9e6a438a294c5edecdab537[m
+Author: isaacwambu <93251501+isaacwambu@users.noreply.github.com>
+Date:   Wed Nov 17 18:22:11 2021 +0300
+
+    Update README.md
+
+[33mcommit 23b74a4e3c4430e5e892405ae992fb10e507266f[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Wed Nov 17 18:17:37 2021 +0300
+
+    modify readme.md
+
+[33mcommit 209fa466ca84bb7e848357acc84dac938c39798c[m
+Author: isaacwambu <93251501+isaacwambu@users.noreply.github.com>
+Date:   Tue Nov 16 09:29:49 2021 +0300
+
+    Update README.md
+
+[33mcommit c58783e92e1a9b5811d82ffc81e86755934122e1[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Mon Nov 15 23:01:40 2021 +0300
+
+    refine identation
+
+[33mcommit 428bd061f892a5b05ccf0467b209a72b75c344c2[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Mon Nov 15 22:38:32 2021 +0300
+
+    refine js file and update readme file
+
+[33mcommit 28b831a906413a20a199f9ebd27a656a0d905a0f[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Mon Nov 15 04:44:40 2021 +0300
+
+    edit submit button
+
+[33mcommit ae6817ff0490c1d67bf3321aeb92065303dda15f[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Mon Nov 15 04:20:31 2021 +0300
+
+    remove the extra lable in the html form
+
+[33mcommit 35914a062707b383d561a65d73d2382ce9b3a117[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Mon Nov 15 03:48:34 2021 +0300
+
+    add form validation in html using required
+
+[33mcommit c058c671c6b9db0b58caab89f2737be6db49c0aa[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sun Nov 14 07:51:53 2021 +0300
+
+    create ip.js
+
+[33mcommit 155fad4efe19905aa437aa4e0ab3c1deb4508764[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sun Nov 14 07:50:26 2021 +0300
+
+    deleted a.js
+
+[33mcommit ba8182b9f12b91cf920cff63050a494b5ec5b01d[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sun Nov 14 07:41:00 2021 +0300
+
+    create a.js file
+
+[33mcommit 548ea66a2a91466dd75286e45f67d5be31e2a568[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sun Nov 14 07:39:25 2021 +0300
+
+    remove akan.js file
+
+[33mcommit 8b1f9cab326d950084ce24b1c6d61ef36e7206f5[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sun Nov 14 07:35:26 2021 +0300
+
+    move akan.js to Akan-name-generator
+
+[33mcommit ac0f41664ea5de8e771d3bc4e7ab449cce63cac2[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sat Nov 13 12:55:23 2021 +0300
+
+    add changes
+
+[33mcommit 7cb99bd5c43229cb55689105853ebda0d4ddec23[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sat Nov 13 12:52:44 2021 +0300
+
+    link html form with js file
+
+[33mcommit 74032ee2348b45bb0c797aa59fb3b75da60362f1[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Sat Nov 13 05:17:50 2021 +0300
+
+    add new files
+
+[33mcommit cf420314a2aee0d50b8a324ce38d956c3b0f43eb[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 15:02:44 2021 +0300
+
+    refine the appearance in css
+
+[33mcommit 4d6695590461faeb8a280a34b68549c333b8a9c1[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 14:24:32 2021 +0300
+
+    make changes on the description paragraph
+
+[33mcommit 7fb6dd507df64e4238c98c1e9b6d0fd8fa855dc7[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 13:09:40 2021 +0300
+
+    tie smilie image and its p tag in a div
+
+[33mcommit 8f26b9d84f8bcc101d2a94ee099017ffe029c1ba[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 13:06:53 2021 +0300
+
+    change the image in description class to myform class
+
+[33mcommit 7fa1c899405815f267af80fb6d00d3b471c46cfa[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:50:28 2021 +0300
+
+    insert an enclosure div
+
+[33mcommit 05d439e0532b729a032e2711d633d3d5851863b5[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:46:19 2021 +0300
+
+    remove the enclosing div
+
+[33mcommit 27a0800258f92aa17d5cc8dad0ff488a29683eaf[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:45:21 2021 +0300
+
+    remove the image div
+
+[33mcommit 3564ad80b1d78d2616ff02083dedb0d42efd8edb[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:16:45 2021 +0300
+
+    insert a class in the overall div
+
+[33mcommit 172b77b547198b0fb34314e45864068ec3d698ce[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:15:36 2021 +0300
+
+    enclose the last two divs into one overall div
+
+[33mcommit 49ed6a4f3f4157329176f2fac9f8a5e0108251d2[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:11:38 2021 +0300
+
+    add a class in the form tag
+
+[33mcommit 0265938e7d0417e0cde37c2a243833079378323f[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:06:02 2021 +0300
+
+    change h2 tag for name of project to h1 tag
+
+[33mcommit bcc4c16511f8b91f171fdb9bf8c419eab16f27f1[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:04:33 2021 +0300
+
+    add break before akan name output slot
+
+[33mcommit d00cf63e03bdbf87a2b1a3ad212d242169c1e35f[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:02:17 2021 +0300
+
+    add p tag sentence in the entry class div
+
+[33mcommit 04fa2e15b131e5a7596ab77d0b557c21adccabfc[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 12:00:35 2021 +0300
+
+    edit p tag on description class
+
+[33mcommit a583c6423f4d73b2d51ce6257a403a7582bad970[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 11:58:33 2021 +0300
+
+    add a ghana flag image
+
+[33mcommit 9f0855533f67e98280d20e893f513eb6b8ca714a[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 10:54:55 2021 +0300
+
+    enter contents of the form
+
+[33mcommit 7e6b2b6598eef87ea32086133a0950b97863de9e[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 10:00:44 2021 +0300
+
+    insert a form
+
+[33mcommit 8a90e5da836c622334eb900f11fff3ec1fb8be74[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 09:55:11 2021 +0300
+
+    add a description paragraph
+
+[33mcommit 2e29e4ca9fcc36145bc68aca70a2b93f30bee527[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 09:14:26 2021 +0300
+
+    create classes in each div
+
+[33mcommit d0ff8445d228e8b24c2f8f425bfca6d38a082466[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 09:12:10 2021 +0300
+
+    create div containers in index.html
+
+[33mcommit 3d666d63e78b819790ec219d0e8e258626e38fce[m
+Author: isaacwambu <codeacademyj@gmail.com>
+Date:   Fri Nov 12 09:10:50 2021 +0300
+
+    link css file
