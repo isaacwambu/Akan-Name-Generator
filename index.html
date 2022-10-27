@@ -12,30 +12,30 @@
 </head>
 <body>
     <h1 class="text-center p-5">Akan Name Generator<br>(Ghanian Naming System)</h1>
-    <section class="about container p-5">
+    <section class="about container p-3">
         <div class="row gap-5">
-            <div class="col-md description p-5 rounded">
+            <div class="col-md description p-4 rounded text-light">
                 <h3>About Akan Name Generator</h3>
                 <p>Akan name generator is an interesting application which is used to assign names to people using a Ghananian naming system that names children based on the day they were born and their gender. It takes in your date of birth and is able to generate a Ghana name for you based on your gender. All you have to do as a user is to enter your date of birth which includes day, month and year of birth and it automatically generates an Akan name for you.</p>
             </div>
-            <div class="col-md entry p-5 text-center rounded">
+            <div class="col-md entry p-4 text-center rounded">
                 <h1>Want to try?</h1>
                     <img src="./img/akan-img.png" alt="smilie" width="15%">
                     <h3>Please enter your date of birth and gender details in the form correctly!</h3><br><br>
                     <form action="" class="my-form" id="form">
                         <label for="day">Day of Birth:</label><br>
-                        <input type="number" id="day" placeholder = "DAY" required><br>
+                        <input type="number" id="day" placeholder = "DAY" required class="p-1"><br>
                         <label for="month">Month of Birth:</label><br>
-                        <input type="number" id="month" placeholder = "MONTH" required><br>
+                        <input type="number" id="month" placeholder = "MONTH" required class="p-1"><br>
                         <label for="year">Year of Birth:</label><br>
-                        <input type="number" id="year" placeholder = "YEAR" required><br><br><br>
+                        <input type="number" id="year" placeholder = "YEAR" required class="p-1"><br><br><br>
                         <label for="gender">Gender:</label>
                         <label for="male">Male</label>
                         <input type="radio" id="male" name="gender">
                         <label for="Female">Female</label>
                         <input type="radio" id="female" name="gender"><br><br>
-                        <button type="reset" value="Reset" class="sub">Reset</button>
-                        <button type="submit" value="Generate" onclick="fn()" class="sub">Generate</button>   
+                        <button type="reset" value="Reset" class="sub px-2 rounded">Reset</button>
+                        <button type="submit" value="Generate" onclick="fn()" class="sub rounded px-2">Generate</button>   
                     </form>
             </div>
         </div>
